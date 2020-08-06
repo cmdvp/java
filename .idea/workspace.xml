@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3c180ff-d581-4cdc-978a-ed246dd7ec05" name="Default Changelist" comment="primeiro commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fkIMJ9VHKJpPWVq855kSdBQz47" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c180ff-d581-4cdc-978a-ed246dd7ec05" name="Default Changelist" comment="" />
+      <created>1596755619832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596755619832</updated>
+    </task>
+    <task id="LOCAL-00001" summary="primeiro commit">
+      <created>1596756011515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596756011515</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="239" y="41" width="1024" height="852" key="#Project_Structure" timestamp="1596755778687">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="239" y="41" width="1024" height="852" key="#Project_Structure/72.27.1368.873@72.27.1368.873" timestamp="1596755778687" />
+    <state x="539" y="221" width="424" height="491" key="FileChooserDialogImpl" timestamp="1596755680181">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="539" y="221" width="424" height="491" key="FileChooserDialogImpl/72.27.1368.873@72.27.1368.873" timestamp="1596755680181" />
+    <state x="351" y="185" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1596756047179">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="351" y="185" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1368.873@72.27.1368.873" timestamp="1596756047179" />
+    <state x="72" y="65" width="1358" height="803" key="new project wizard" timestamp="1596755633248">
+      <screen x="72" y="27" width="1368" height="873" />
+    </state>
+    <state x="72" y="65" width="1358" height="803" key="new project wizard/72.27.1368.873@72.27.1368.873" timestamp="1596755633248" />
+  </component>
+</project>
